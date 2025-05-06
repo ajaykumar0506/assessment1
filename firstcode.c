@@ -10,4 +10,8 @@ int main() {
     printf("Sum: %d\n", sum);
     int diff = a - b;
     printf("Difference: %d\n", diff);
+    printf("Calculation complete.\n");
+    return 0;
+}
+
 
