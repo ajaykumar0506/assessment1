@@ -8,4 +8,6 @@ int main() {
 
     int sum = a + b;
     printf("Sum: %d\n", sum);
+    int diff = a - b;
+    printf("Difference: %d\n", diff);
 
