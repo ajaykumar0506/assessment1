@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    // 'int' is used for integer values
     int a, b;
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
